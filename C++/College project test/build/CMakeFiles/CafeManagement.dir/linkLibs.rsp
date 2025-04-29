@@ -1,0 +1,1 @@
+  -L"C:/FLTK/fltk-1.4.2/build/lib"  -LC:/PROGRA~2/MariaDB/MARIAD~1/lib  -lfltk -lfltk_images -lfltk_forms "C:/Program Files (x86)/MariaDB/MariaDB Connector C/lib/libmariadb.lib" -lws2_32 -lgdi32 -lgdiplus -lole32 -luuid -lcomdlg32 -lcomctl32 -limm32 -lwinmm -lshlwapi -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

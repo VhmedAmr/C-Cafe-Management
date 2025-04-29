@@ -1,0 +1,3 @@
+E:/adds/C++/College project test/build/CMakeFiles/CafeManagement.dir
+E:/adds/C++/College project test/build/CMakeFiles/edit_cache.dir
+E:/adds/C++/College project test/build/CMakeFiles/rebuild_cache.dir
